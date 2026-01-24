@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ollama.Console", "Ollama.Console\Ollama.Console.csproj", "{7918803C-20FE-4BEF-8F7E-10DED8826864}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ollama.RAG.Console", "Ollama.RAG.Console\Ollama.RAG.Console.csproj", "{8FFE31F3-8717-44FA-B933-F66B5F59E5E6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{7918803C-20FE-4BEF-8F7E-10DED8826864}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7918803C-20FE-4BEF-8F7E-10DED8826864}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7918803C-20FE-4BEF-8F7E-10DED8826864}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FFE31F3-8717-44FA-B933-F66B5F59E5E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FFE31F3-8717-44FA-B933-F66B5F59E5E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FFE31F3-8717-44FA-B933-F66B5F59E5E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FFE31F3-8717-44FA-B933-F66B5F59E5E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
